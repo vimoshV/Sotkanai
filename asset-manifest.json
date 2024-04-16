@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65dec7d7.css",
+    "main.js": "/static/js/main.84562af7.js",
+    "static/js/453.1b6cbde4.chunk.js": "/static/js/453.1b6cbde4.chunk.js",
+    "static/media/sotkani3.jpg": "/static/media/sotkani3.119d86c48c05da4d49fb.jpg",
+    "static/media/title.jpg": "/static/media/title.0126276775130a842ac3.jpg",
+    "index.html": "/index.html",
+    "main.65dec7d7.css.map": "/static/css/main.65dec7d7.css.map",
+    "main.84562af7.js.map": "/static/js/main.84562af7.js.map",
+    "453.1b6cbde4.chunk.js.map": "/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65dec7d7.css",
+    "static/js/main.84562af7.js"
+  ]
+}
